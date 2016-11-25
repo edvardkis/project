@@ -1,6 +1,6 @@
 Project
 
-This is a fake project
+This is a fake project.
 
-2016.3.3
+Date: 2016.3.3
 
